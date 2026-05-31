@@ -1,0 +1,24 @@
+{
+  "name": "first-nodejs-server-pammyshark",
+  "version": "1.0.0",
+  "description": "**Objective:** Build and run your first Node.js HTTP server to gain hands-on experience with server-side development.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Cornerstone-CICCC/first-nodejs-server-pammyshark.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Cornerstone-CICCC/first-nodejs-server-pammyshark/issues"
+  },
+  "homepage": "https://github.com/Cornerstone-CICCC/first-nodejs-server-pammyshark#readme",
+  "devDependencies": {
+    "@types/node": "^25.9.1"
+  }
+}
